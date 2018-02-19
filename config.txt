@@ -4,8 +4,8 @@ Secret =
 
 
 [Yobit]
-Key = BDC4673E322AAB787988021B8EE1143C
-Secret =b84f45cba2989ad33ff7f461f974ec4d
+Key = 
+Secret =
 
 
 [Cryptopia]
